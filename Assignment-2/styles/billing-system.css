@@ -1,0 +1,595 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.billing-system-79v {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+}
+.billing-system-79v .auto-group-kd6u-F1E {
+  box-sizing: border-box;
+  padding: 0rem 1.2rem 2.3rem 1.9rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #000000;
+  flex-shrink: 0;
+}
+.billing-system-79v .auto-group-kd6u-F1E .auto-group-wnyt-NLk {
+  width: 100%;
+  height: 8.2rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.billing-system-79v .auto-group-kd6u-F1E .auto-group-wnyt-NLk .food-dynasty-hP2 {
+  margin: 0rem 13.5rem 1rem 0rem;
+  font-size: 4.8rem;
+  font-weight: 700;
+  line-height: 1.5;
+  letter-spacing: -0.1056rem;
+  color: #ffa629;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.billing-system-79v .auto-group-kd6u-F1E .auto-group-wnyt-NLk .home-C4t {
+  margin-right: 1rem;
+  cursor: pointer;
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1.3333333333;
+  letter-spacing: -0.0456rem;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.billing-system-79v .auto-group-kd6u-F1E .auto-group-wnyt-NLk .about-WrG {
+  margin-right: 3.3rem;
+  cursor: pointer;
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1.3333333333;
+  letter-spacing: -0.0456rem;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.billing-system-79v .auto-group-kd6u-F1E .auto-group-wnyt-NLk .menu-SV2 {
+  margin-right: 0.3rem;
+  cursor: pointer;
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1.3333333333;
+  letter-spacing: -0.0456rem;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.billing-system-79v .auto-group-kd6u-F1E .auto-group-wnyt-NLk .auto-group-agda-Afv {
+  margin: 2.5rem 5.8rem 2.5rem 0rem;
+  width: 22.1rem;
+  height: calc(100% - 5rem);
+  position: relative;
+  flex-shrink: 0;
+}
+.billing-system-79v .auto-group-kd6u-F1E .auto-group-wnyt-NLk .auto-group-agda-Afv .gallery-Gyr {
+  width: 15.2rem;
+  height: 3.2rem;
+  cursor: pointer;
+  position: absolute;
+  left: 6.9rem;
+  top: 0;
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1.3333333333;
+  letter-spacing: -0.0456rem;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.billing-system-79v .auto-group-kd6u-F1E .auto-group-wnyt-NLk .auto-group-agda-Afv .billing-BL8 {
+  width: 8.9rem;
+  height: 3.2rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1.3333333333;
+  letter-spacing: -0.0456rem;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.billing-system-79v .auto-group-kd6u-F1E .auto-group-wnyt-NLk .contact-Htx {
+  margin-right: 4.5rem;
+  cursor: pointer;
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1.3333333333;
+  letter-spacing: -0.0456rem;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.billing-system-79v .auto-group-kd6u-F1E .auto-group-wnyt-NLk .auto-group-kpeg-pP6 {
+  margin-top: 0.5rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.billing-system-79v .auto-group-kd6u-F1E .auto-group-wnyt-NLk .auto-group-kpeg-pP6 .login-a7N {
+  margin: 0rem 0rem 0.5rem 4.5rem;
+  cursor: pointer;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.5;
+  letter-spacing: -0.0456rem;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.billing-system-79v .auto-group-kd6u-F1E .auto-group-wnyt-NLk .auto-group-kpeg-pP6 .book-a-table-UTe {
+  cursor: pointer;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.5;
+  letter-spacing: -0.0456rem;
+  color: #ffa629;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.billing-system-79v .auto-group-kd6u-F1E .auto-group-qtkl-PqW {
+  margin: 0rem 1.1rem 0rem 0.3rem;
+  width: calc(100% - 1.4rem);
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.billing-system-79v .auto-group-kd6u-F1E .auto-group-qtkl-PqW .auto-group-nswx-KjA {
+  margin-right: 10.2rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.billing-system-79v .auto-group-kd6u-F1E .auto-group-qtkl-PqW .auto-group-nswx-KjA .enjoy-hundreds-of-flavors-under-one-roof-Uc4 {
+  margin: 0rem 0rem 3.4rem 4.3rem;
+  max-width: 18rem;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: -0.044rem;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.billing-system-79v .auto-group-kd6u-F1E .auto-group-qtkl-PqW .auto-group-nswx-KjA .enjoy-hundreds-of-flavors-under-one-roof-Uc4 .enjoy-hundreds-of-flavors-under-one-roof-Uc4-sub-0 {
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.5;
+  letter-spacing: -0.044rem;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+}
+.billing-system-79v .auto-group-kd6u-F1E .auto-group-qtkl-PqW .auto-group-nswx-KjA .enjoy-hundreds-of-flavors-under-one-roof-Uc4 .enjoy-hundreds-of-flavors-under-one-roof-Uc4-sub-1 {
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.5;
+  letter-spacing: -0.044rem;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+}
+.billing-system-79v .auto-group-kd6u-F1E .auto-group-qtkl-PqW .auto-group-nswx-KjA .welcome-to-our-exquisite-restaurant-where-culinary-artistry-takes-center-stage-our-talented-chefs-craft-dishes-that-are-a-true-delight-for-the-senses-join-us-for-a-dining-experience-that-combines-the-freshest-ingredients-innovative-recipes-and-a-warm-inviting-ambiance-reserve-your-table-today-to-indulge-in-a-gastronomic-journey-like-no-other-Udz {
+  max-width: 85.3rem;
+  font-size: 1.3rem;
+  font-weight: 700;
+  line-height: 1.5;
+  letter-spacing: -0.0143rem;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.billing-system-79v .auto-group-kd6u-F1E .auto-group-qtkl-PqW .image-3-TVv {
+  width: 44rem;
+  height: 20.2rem;
+  position: relative;
+  background-size: 93.932% 97.03%;
+  background-position: 0.788rem 0rem;
+  background-image: url('../assets/image-3-uuv.png');
+  flex-shrink: 0;
+}
+.billing-system-79v .auto-group-f6hj-wfz {
+  box-sizing: border-box;
+  padding: 0.8rem 0.005rem 1.7rem 42.6rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.billing-system-79v .auto-group-f6hj-wfz .auto-group-vqs6-T8Y {
+  margin-bottom: 5.7rem;
+  width: 100%;
+  height: 6.3rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.billing-system-79v .auto-group-f6hj-wfz .auto-group-vqs6-T8Y .billing-system-BaL {
+  margin-right: 40rem;
+  font-size: 4.8rem;
+  font-weight: 400;
+  line-height: 1.2999999523;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.billing-system-79v .auto-group-f6hj-wfz .auto-group-vqs6-T8Y .auto-group-hict-Jex {
+  margin: 0.7rem 0rem 0.781rem 0rem;
+  width: 22.195rem;
+  height: calc(100% - 1.4807rem);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 3.9rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  letter-spacing: 0.3705rem;
+  color: #ffffff;
+  font-family: Work Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  background-color: #ff5d5d;
+  border-radius: 1.6rem;
+  flex-shrink: 0;
+}
+.billing-system-79v .auto-group-f6hj-wfz .auto-group-n4gk-whv {
+  margin: 0rem 45.595rem 2rem 1.4rem;
+  width: calc(100% - 46.995rem);
+  height: 5.2rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.billing-system-79v .auto-group-f6hj-wfz .auto-group-n4gk-whv .auto-group-znsy-s5n {
+  margin-right: 0.3rem;
+  box-sizing: border-box;
+  padding: 0.7rem 2rem;
+  width: 51.7rem;
+  height: 100%;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.3;
+  color: rgba(0, 0, 0, 0.6000000238);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  background-color: #d9d9d9;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.billing-system-79v .auto-group-f6hj-wfz .auto-group-n4gk-whv .filled-navigation-arrow-drop-down-jNt {
+  width: 2.4rem;
+  height: 2.4rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.billing-system-79v .auto-group-f6hj-wfz .auto-group-r7q8-qRv {
+  margin: 0rem 46.895rem 3.1rem 0rem;
+  box-sizing: border-box;
+  padding: 1.2rem 2rem 1.4rem 2rem;
+  width: 51.7rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.3;
+  color: rgba(0, 0, 0, 0.6000000238);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  background-color: #d9d9d9;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.billing-system-79v .auto-group-f6hj-wfz .auto-group-fssq-gSY {
+  margin: 0rem 44.895rem 2.5rem 0rem;
+  width: 53.7rem;
+  height: 5.2rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.billing-system-79v .auto-group-f6hj-wfz .auto-group-fssq-gSY .filled-navigation-arrow-drop-down-QNY {
+  width: 2.4rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 51.3rem;
+  top: 1.3rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.billing-system-79v .auto-group-f6hj-wfz .auto-group-fssq-gSY .rectangle-15-vbn {
+  width: 51.7rem;
+  height: 5.2rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #d9d9d9;
+  border-radius: 1rem;
+}
+.billing-system-79v .auto-group-f6hj-wfz .auto-group-fssq-gSY .quantity-s1E {
+  width: 10.3rem;
+  height: 2.6rem;
+  position: absolute;
+  left: 1.6rem;
+  top: 1.3rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.3;
+  color: rgba(0, 0, 0, 0.6000000238);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.billing-system-79v .auto-group-f6hj-wfz .auto-group-jmzn-Mh6 {
+  margin-right: 46.895rem;
+  box-sizing: border-box;
+  padding: 0.4rem 2rem;
+  width: 51.7rem;
+  height: 5.2rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.3;
+  color: rgba(0, 0, 0, 0.6000000238);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  background-color: #d9d9d9;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.billing-system-79v .auto-group-et3w-DjJ {
+  margin-bottom: 4.7rem;
+  box-sizing: border-box;
+  padding: 0rem 3rem 0rem 3.5rem;
+  width: 100%;
+  height: 34.8rem;
+  display: flex;
+  align-items: flex-start;
+  background-color: #d9d9d9;
+  flex-shrink: 0;
+}
+.billing-system-79v .auto-group-et3w-DjJ .contact-sambas-region-east-blue-near-grand-line-XV6 {
+  margin: 6.3rem 31.9rem 0rem 0rem;
+  max-width: 25.3rem;
+  font-size: 3.6rem;
+  font-weight: 700;
+  line-height: 1.4825;
+  color: #000000;
+  font-family: Oswald, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.billing-system-79v .auto-group-et3w-DjJ .contact-sambas-region-east-blue-near-grand-line-XV6 .contact-sambas-region-east-blue-near-grand-line-XV6-sub-0 {
+}
+.billing-system-79v .auto-group-et3w-DjJ .contact-sambas-region-east-blue-near-grand-line-XV6 .contact-sambas-region-east-blue-near-grand-line-XV6-sub-1 {
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.4825;
+  color: #000000;
+  font-family: Oswald, 'Source Sans Pro';
+}
+.billing-system-79v .auto-group-et3w-DjJ .auto-group-wxp4-47e {
+  margin-right: 31.1rem;
+  width: 32.1rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.billing-system-79v .auto-group-et3w-DjJ .auto-group-wxp4-47e .food-dynasty-abn {
+  margin: 0rem 5.5rem 1.1rem 0rem;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.4825;
+  color: #000000;
+  font-family: Oswald, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.billing-system-79v .auto-group-et3w-DjJ .auto-group-wxp4-47e .auto-group-5vz6-VTr {
+  margin: 0rem 13.887rem 1.198rem 6.1rem;
+  width: calc(100% - 19.9871rem);
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.billing-system-79v .auto-group-et3w-DjJ .auto-group-wxp4-47e .auto-group-5vz6-VTr .vector-DPr {
+  margin: 0rem 2.1rem 0.002rem 0rem;
+  width: 5.2rem;
+  height: 3rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.billing-system-79v .auto-group-et3w-DjJ .auto-group-wxp4-47e .auto-group-5vz6-VTr .vector-XvL {
+  width: 4.8129rem;
+  height: 2.8024rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.billing-system-79v .auto-group-et3w-DjJ .auto-group-wxp4-47e .emailfooddynastycom-555-888-9999-UKn {
+  max-width: 32.1rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.4825;
+  color: #000000;
+  font-family: Oswald, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.billing-system-79v .auto-group-et3w-DjJ .auto-group-zrbr-b9W {
+  margin: 4.4rem 0rem 12.6rem 0rem;
+  height: calc(100% - 17rem);
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.billing-system-79v .auto-group-et3w-DjJ .auto-group-zrbr-b9W .hours-hiL {
+  margin: 0rem 0rem 1.7rem 1.8rem;
+  font-size: 3.6rem;
+  font-weight: 700;
+  line-height: 1.4825;
+  color: #000000;
+  font-family: Oswald, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.billing-system-79v .auto-group-et3w-DjJ .auto-group-zrbr-b9W .monday-sunday-10am-10pm-Qse {
+  max-width: 17.1rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.4825;
+  color: #000000;
+  font-family: Oswald, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.billing-system-79v .auto-group-e4kc-tnp {
+  width: 153.1rem;
+  height: 68.7rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.billing-system-79v .auto-group-e4kc-tnp .rectangle-16-1cY {
+  width: 143.8rem;
+  height: 17.5rem;
+  position: absolute;
+  left: 0.2rem;
+  top: 51.2rem;
+  background-color: #c4c4c4;
+  border-radius: 2.2rem;
+}
+.billing-system-79v .auto-group-e4kc-tnp .photo-1585144570839-e429bb95ffb4-2-WpC {
+  width: 144rem;
+  height: 51.2rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.billing-system-79v .auto-group-e4kc-tnp .hours-ppt {
+  width: 10.5rem;
+  height: 5.4rem;
+  position: absolute;
+  left: 124.5rem;
+  top: 53.6rem;
+  font-size: 3.6rem;
+  font-weight: 700;
+  line-height: 1.4825;
+  color: #000000;
+  font-family: Oswald, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.billing-system-79v .auto-group-e4kc-tnp .contact-sambas-region-east-blue-near-grand-line-gcC {
+  width: 57rem;
+  height: 5.4rem;
+  position: absolute;
+  left: 4.1rem;
+  top: 53.8rem;
+  font-size: 3.6rem;
+  font-weight: 700;
+  line-height: 1.4825;
+  color: #000000;
+  font-family: Oswald, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+}
+.billing-system-79v .auto-group-e4kc-tnp .contact-sambas-region-east-blue-near-grand-line-gcC .contact-sambas-region-east-blue-near-grand-line-gcC-sub-0 {
+}
+.billing-system-79v .auto-group-e4kc-tnp .contact-sambas-region-east-blue-near-grand-line-gcC .contact-sambas-region-east-blue-near-grand-line-gcC-sub-1 {
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.4825;
+  color: #000000;
+  font-family: Oswald, 'Source Sans Pro';
+}
+.billing-system-79v .auto-group-e4kc-tnp .baratie-pM2 {
+  width: 16.5rem;
+  height: 7.2rem;
+  position: absolute;
+  left: 63.9rem;
+  top: 50.8rem;
+  font-size: 4.8rem;
+  font-weight: 700;
+  line-height: 1.4825;
+  color: #000000;
+  font-family: Oswald, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.billing-system-79v .auto-group-e4kc-tnp .monday-sunday-10am-10pm-udN {
+  width: 31.4rem;
+  height: 3.6rem;
+  position: absolute;
+  left: 121.7rem;
+  top: 58.6rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.4825;
+  color: #000000;
+  font-family: Oswald, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.billing-system-79v .auto-group-e4kc-tnp .vector-CMa {
+  width: 3rem;
+  height: 3rem;
+  position: absolute;
+  left: 66.8rem;
+  top: 57.9rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.billing-system-79v .auto-group-e4kc-tnp .vector-KBJ {
+  width: 3rem;
+  height: 3rem;
+  position: absolute;
+  left: 74.1rem;
+  top: 57.9rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.billing-system-79v .auto-group-e4kc-tnp .emailexamplecom-555-888-9999-pdr {
+  width: 37.8rem;
+  height: 3.6rem;
+  position: absolute;
+  left: 61.4rem;
+  top: 61.1rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.4825;
+  color: #000000;
+  font-family: Oswald, 'Source Sans Pro';
+  white-space: nowrap;
+}
