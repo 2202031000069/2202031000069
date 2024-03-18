@@ -1,0 +1,402 @@
+.desktop-2-child,
+.welcome-to-our {
+  position: absolute;
+    top: 0;
+    left: 0;
+    background-color: var(--color-black);
+    width: 1480px;
+    height: 312px;
+}
+.welcome-to-our {
+  top: 230px;
+  left: 22px;
+  font-size: var(--font-size-smi);
+  letter-spacing: -0.01em;
+  line-height: 150%;
+  display: inline-block;
+  width: 867px;
+  height: 74px;
+}
+.image-3-icon {
+  position: absolute;
+  top: 87px;
+  left: 977px;
+  width: 440px;
+  height: 202px;
+  object-fit: cover;
+}
+.billing,
+.home1,
+.menu {
+  top: 21px;
+  line-height: 32px;
+  font-weight: 500;
+}
+.home1 {
+  position: absolute;
+  left: 474px;
+  letter-spacing: -0.02em;
+  white-space: pre-wrap;
+}
+.billing,
+.menu {
+  cursor: pointer;
+}
+.menu {
+  position: absolute;
+  left: 706px;
+  letter-spacing: -0.02em;
+  white-space: pre-wrap;
+}
+.billing {
+  left: 822px;
+}
+.billing,
+.book-a-table,
+.food-dynasty,
+.gallery {
+  position: absolute;
+  letter-spacing: -0.02em;
+}
+.gallery {
+  top: 21px;
+  left: 900px;
+  right:20px;
+  line-height: 32px;
+  font-weight: 500;
+  white-space: pre-wrap;
+  display: inline-block;
+  width: 183px;
+  cursor: pointer;
+  padding-left: 30px;
+
+  
+}
+.book-a-table,
+.food-dynasty {
+  line-height: 150%;
+  color: var(--color-orange);
+}
+.book-a-table {
+  top: 53px;
+  left: 1241px;
+  cursor: pointer;
+}
+.food-dynasty {
+  top: -4px;
+  left: 19px;
+  font-size: var(--font-size-29xl);
+}
+.enjoy-hundreds-of {
+  margin: 0;
+}
+.enjoy-hundreds-of-container {
+  position: absolute;
+  top: 106px;
+  left: 65px;
+  font-size: var(--font-size-xl);
+  letter-spacing: -0.02em;
+  line-height: 150%;
+  display: inline-block;
+  width: 675px;
+  height: 95px;
+}
+.desktop-2-inner,
+.desktop-2-item {
+  position: absolute;
+  top: 183px;
+  left: 19px;
+  width: 643px;
+  height: 95px;
+}
+.desktop-2-inner {
+  top: 297px;
+  left: -8px;
+  background-color: var(--color-gainsboro);
+  width: 8px;
+  height: 3px;
+}
+.frame-child {
+  position: absolute;
+  top: 25px;
+  left: 18px;
+  width: 298px;
+  height: 179px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.manu {
+  position: absolute;
+  top: 9px;
+  left: 110px;
+  display: inline-block;
+  width: 92px;
+  height: 82px;
+}
+.frame-inner,
+.frame-item {
+  position: absolute;
+  top: 33px;
+  left: 384px;
+  width: 304px;
+  height: 171px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.frame-inner {
+  top: 25px;
+  left: 772px;
+  width: 279px;
+  height: 179px;
+}
+.about-us {
+  position: absolute;
+  top: 10px;
+  left: 834px;
+  color: var(--color-black);
+}
+.line-icon,
+.rectangle-icon {
+  position: absolute;
+  top: 25px;
+  left: 1119px;
+  width: 304px;
+  height: 179px;
+  object-fit: cover;
+}
+.line-icon {
+  top: 64px;
+  left: 385px;
+  width: 303px;
+  height: 6px;
+  object-fit: contain;
+}
+.book-a-table1 {
+  position: absolute;
+  top: 31px;
+  left: 429px;
+  font-family: var(--font-karla);
+}
+.frame-child1 {
+  position: absolute;
+  top: 61px;
+  left: 21px;
+  width: 295px;
+  height: 3px;
+  object-fit: contain;
+}
+.frame-child2,
+.gallery1 {
+  position: absolute;
+  top: 10px;
+  left: 1209px;
+}
+.frame-child2 {
+  top: 53px;
+  left: 771px;
+  width: 280px;
+  height: 8px;
+  object-fit: contain;
+}
+.rectangle-div,
+.rectangle-parent {
+  position: absolute;
+  left: 0;
+  width: 1440px;
+}
+.rectangle-parent {
+  top: 300px;
+  height: 204px;
+  overflow: hidden;
+  font-size: var(--font-size-17xl);
+  font-family: var(--font-kanit);
+}
+.rectangle-div {
+  top: 512px;
+  background-color: #d2b1b1;
+  height: 289px;
+}
+.indulge-in-a {
+  margin: 0;
+  white-space: pre-wrap;
+}
+.discover-our-restaurants-container,
+.indulge-in-a-container,
+.welcome-to-food-dynasty {
+  position: absolute;
+  top: 691px;
+  left: 773px;
+  font-size: var(--font-size-base);
+  font-family: var(--font-karla);
+  color: var(--color-black);
+}
+.discover-our-restaurants-container,
+.welcome-to-food-dynasty {
+  top: 558px;
+  left: 777px;
+  font-size: var(--font-size-29xl);
+}
+.discover-our-restaurants-container {
+  top: 638px;
+  font-size: var(--font-size-base);
+}
+.desktop-2-child1,
+.desktop-2-child2 {
+  position: absolute;
+  top: 525px;
+  left: 33px;
+  width: 228px;
+  height: 153px;
+  object-fit: cover;
+}
+.desktop-2-child2 {
+  top: 543px;
+  left: 272px;
+  width: 161px;
+  height: 114px;
+}
+.desktop-2-child3,
+.desktop-2-child4 {
+  position: absolute;
+  top: 698px;
+  left: 76px;
+  width: 168px;
+  height: 99px;
+  object-fit: cover;
+}
+.desktop-2-child4 {
+  top: 669px;
+  left: 272px;
+  width: 229px;
+  height: 128px;
+}
+.desktop-2-child5 {
+  position: absolute;
+  top: 801px;
+  left: -4px;
+  background-color: var(--color-gainsboro);
+  width: 1480px;
+  height: 223px;
+}
+.vector-icon,
+.vector-icon1 {
+  position: absolute;
+  height: 2.73%;
+  width: 3.34%;
+  top: 85.16%;
+  right: 50.55%;
+  bottom: 12.11%;
+  left: 46.11%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vector-icon1 {
+  height: 2.93%;
+  width: 2.57%;
+  right: 55.35%;
+  bottom: 11.91%;
+  left: 42.08%;
+}
+.hours {
+  position: absolute;
+  top: 829px;
+  left: 1274px;
+  font-size: var(--font-size-17xl);
+  font-family: var(--font-oswald);
+  color: var(--color-black);
+}
+.monday-sunday-container {
+  top: 910px;
+  left: 1237px;
+}
+.emailfooddynastycom-555-88-container,
+.food-dynasty1,
+.monday-sunday-container {
+  position: absolute;
+  font-family: var(--font-oswald);
+  color: var(--color-black);
+}
+.emailfooddynastycom-555-88-container {
+  top: 910px;
+  left: 580px;
+  font-size: var(--font-size-13xl);
+  display: inline-block;
+  width: 377px;
+}
+.food-dynasty1 {
+  top: 797px;
+  left: 586px;
+  font-size: var(--font-size-21xl);
+}
+.contact {
+  margin: 0;
+  font-size: var(--font-size-17xl);
+  white-space: pre-wrap;
+}
+.contact-sambas-region-container {
+  position: absolute;
+  top: 854px;
+  left: 19px;
+  display: inline-block;
+  font-family: var(--font-oswald);
+  color: var(--color-black);
+  width: 279px;
+  height: 117px;
+}
+.about {
+  top: 21px;
+  left: 584px;
+  line-height: 32px;
+  font-weight: 500;
+}
+.about,
+.contact1,
+.login {
+  position: absolute;
+  letter-spacing: -0.02em;
+  cursor: pointer;
+}
+.contact1 {
+  top: 21px;
+  left: 1082px;
+  line-height: 32px;
+  font-weight: 500;
+}
+.login {
+  top: 6px;
+  left: 1342px;
+  line-height: 150%;
+}
+.desktop-2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-white);
+  width: 1440px;
+  height: 1024px;
+  overflow: hidden;
+}
+.home-child {
+  position: absolute;
+  top: 352px;
+  left: 1119px;
+  width: 321px;
+  height: 1px;
+  object-fit: contain;
+}
+.home {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}
+a{
+  color: white;
+  text-decoration: none;
+}

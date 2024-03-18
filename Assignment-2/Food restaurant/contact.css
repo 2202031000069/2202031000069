@@ -1,0 +1,341 @@
+.contact-child {
+  position: absolute;
+  top: -2px;
+  left: 0;
+  background-color: var(--color-black);
+  width: 1480px;
+  height: 312px;
+}
+.about8,
+.contact16 {
+  position: absolute;
+  top: 21px;
+  left: 1068px;
+  letter-spacing: -0.02em;
+  line-height: 32px;
+  font-weight: 500;
+  color: var(--color-white);
+}
+.about8 {
+  top: 23px;
+  left: 572px;
+  cursor: pointer;
+}
+.gallery10 {
+  left: 878px;
+  white-space: pre-wrap;
+  display: inline-block;
+  width: 168px;
+  padding-left: 30px;
+  
+}
+.contact{
+  display:inline-block;
+  width:168px;
+  
+}
+.billing7,
+.gallery10,
+.home8,
+.menu9 {
+  position: absolute;
+  top: 21px;
+  letter-spacing: -0.02em;
+  line-height: 32px;
+  font-weight: 500;
+  color: var(--color-white);
+  cursor: pointer;
+}
+.menu9 {
+  left: 670px;
+  white-space: pre-wrap;
+}
+.billing7,
+.home8 {
+  left: 789px;
+}
+.home8 {
+  top: 23px;
+  left: 468px;
+  white-space: pre-wrap;
+  display: inline-block;
+  width: 82px;
+  height: 32px;
+}
+.book-a-table9,
+.welcome-to-our8 {
+  position: absolute;
+  line-height: 150%;
+}
+.book-a-table9 {
+  top: 56px;
+  left: 1247px;
+  letter-spacing: -0.02em;
+  color: var(--color-orange);
+  cursor: pointer;
+}
+.welcome-to-our8 {
+  top: 238px;
+  left: 25px;
+  font-size: var(--font-size-smi);
+  letter-spacing: -0.01em;
+  display: inline-block;
+  color: var(--color-white);
+  width: 867px;
+  height: 74px;
+}
+.enjoy-hundreds-of8 {
+  margin: 0;
+}
+.enjoy-hundreds-of-container8,
+.food-dynasty15 {
+  position: absolute;
+  top: 109px;
+  left: 94px;
+  font-size: var(--font-size-xl);
+  letter-spacing: -0.02em;
+  line-height: 150%;
+  display: inline-block;
+  color: var(--color-white);
+  width: 675px;
+  height: 95px;
+}
+.food-dynasty15 {
+  top: 0;
+  left: 19px;
+  font-size: var(--font-size-29xl);
+  color: var(--color-orange);
+  width: 385px;
+  height: 113px;
+}
+.image-3-icon7 {
+  position: absolute;
+  top: 89px;
+  left: 978px;
+  width: 440px;
+  height: 202px;
+  object-fit: cover;
+}
+.contact-item {
+  position: absolute;
+  top: 741px;
+  left: 0;
+  background-color: var(--color-gainsboro);
+  width: 1440px;
+  height: 283px;
+}
+.food-dynasty16,
+.hours8 {
+  position: absolute;
+  top: 741px;
+  left: 617px;
+  font-size: var(--font-size-21xl);
+  font-family: var(--font-oswald);
+}
+.hours8 {
+  top: 785px;
+  left: 1281px;
+  font-size: var(--font-size-17xl);
+}
+.vector-icon16,
+.vector-icon17 {
+  position: absolute;
+  height: 2.93%;
+  width: 2.57%;
+  top: 79.3%;
+  right: 50%;
+  bottom: 17.77%;
+  left: 47.43%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vector-icon17 {
+  height: 2.73%;
+  width: 3.34%;
+  top: 79.49%;
+  right: 45.2%;
+  left: 51.46%;
+}
+.am-10pm8 {
+  margin: 0;
+  white-space: pre-wrap;
+}
+.emailfooddynastycom-555-88-container7,
+.monday-sunday-container8 {
+  position: absolute;
+  top: 856px;
+  left: 1239px;
+  font-family: var(--font-oswald);
+}
+.emailfooddynastycom-555-88-container7 {
+  top: 880px;
+  left: 569px;
+  font-size: var(--font-size-13xl);
+  display: inline-block;
+  width: 377px;
+}
+.imag1 {
+  position: absolute;
+  top: 741px;
+  left: 0;
+  width: 1480px;
+  height: 283px;
+}
+.contact-us {
+  position: absolute;
+  top: 324px;
+  left: 22px;
+  font-size: var(--font-size-29xl);
+  font-family: var(--font-karla);
+}
+.contact-inner {
+  position: absolute;
+  top: 390px;
+  left: 404px;
+  background-color: var(--color-gainsboro);
+  width: 454px;
+  height: 340px;
+}
+.fill-out-the {
+  position: absolute;
+  top: 365px;
+  left: 363px;
+  font-size: var(--font-size-xl);
+  font-weight: 500;
+  font-family: var(--font-zen-kaku-gothic-antique);
+  text-align: center;
+  display: inline-block;
+  width: 605px;
+  height: 29px;
+}
+.contact-child1 {
+  position: absolute;
+  top: 481px;
+  left: 445px;
+  background-color: var(--color-white);
+  width: 390px;
+  height: 35px;
+}
+.name {
+  position: absolute;
+  top: 487px;
+  left: 458px;
+  font-size: 15px;
+  font-weight: 500;
+  font-family: var(--font-zen-kaku-gothic-antique);
+  text-align: center;
+}
+.contact-child2 {
+  position: absolute;
+  top: 539px;
+  left: 445px;
+  background-color: var(--color-white);
+  width: 390px;
+  height: 35px;
+}
+.email-address {
+  position: absolute;
+  top: 550px;
+  left: 453px;
+  font-size: var(--font-size-sm);
+  font-weight: 500;
+  font-family: var(--font-zen-kaku-gothic-antique);
+  text-align: center;
+  margin: -.5rem -.5rem;
+}
+.contact-child3 {
+  position: absolute;
+  top: 655px;
+  left: 445px;
+  background-color: var(--color-white);
+  width: 390px;
+  height: 35px;
+}
+.message {
+  position: absolute;
+  top: 662px;
+  left: 460px;
+  font-size: var(--font-size-sm);
+  font-weight: 500;
+  font-family: var(--font-zen-kaku-gothic-antique);
+  text-align: center;
+}
+.contact-child4,
+.contact-child5 {
+  position: absolute;
+  top: 597px;
+  left: 445px;
+  background-color: var(--color-white);
+  width: 390px;
+  height: 35px;
+}
+.contact-child5 {
+  top: 692px;
+  left: 569px;
+  border-radius: var(--br-3xs);
+  width: 170px;
+  height: 39px;
+}
+.phone-number,
+.submit {
+  position: absolute;
+  top: 695px;
+  left: 604px;
+  font-size: var(--font-size-13xl);
+  font-weight: 500;
+  font-family: var(--font-zen-kaku-gothic-antique);
+  text-align: center;
+}
+.phone-number {
+  top: 603px;
+  left: 458px;
+  font-size: var(--font-size-sm);
+}
+.contact17 {
+  margin: 0;
+  font-size: var(--font-size-17xl);
+  white-space: pre-wrap;
+}
+.contact-sambas-region-container8 {
+  position: absolute;
+  top: 824px;
+  left: 37px;
+  display: inline-block;
+  font-family: var(--font-oswald);
+  width: 279px;
+  height: 117px;
+}
+.login7 {
+  position: absolute;
+  top: 10px;
+  left: 1351px;
+  letter-spacing: -0.02em;
+  line-height: 150%;
+  color: var(--color-white);
+  cursor: pointer;
+}
+.contact15 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
+.contact-child{
+  display: flex;
+}
+#img{
+  margin: 5rem
+};
+#img img{
+  height: 10px;
+}
+a{
+  color: white;
+  text-decoration: none;
+}

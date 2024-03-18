@@ -1,0 +1,275 @@
+.about-child,
+.about-item {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-black);
+  width: 1480px;
+  height: 312px;
+}
+.about-item {
+  top: 743px;
+  background-color: var(--color-gainsboro);
+  height: 283px;
+}
+.hours4 {
+  position: absolute;
+  top: 785px;
+  left: 1281px;
+  font-size: var(--font-size-17xl);
+  font-family: var(--font-oswald);
+}
+.vector-icon8,
+.vector-icon9 {
+  position: absolute;
+  height: 2.93%;
+  width: 2.57%;
+  top: 79.3%;
+  right: 50%;
+  bottom: 17.77%;
+  left: 47.43%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vector-icon9 {
+  height: 2.73%;
+  width: 3.34%;
+  top: 79.49%;
+  right: 45.2%;
+  left: 51.46%;
+}
+.monday-sunday-container4 {
+  position: absolute;
+  top: 856px;
+  left: 1239px;
+  font-family: var(--font-oswald);
+}
+.emailfooddynastycom-555-88-container4,
+.food-dynasty8 {
+  position: absolute;
+  top: 741px;
+  left: 617px;
+  font-size: var(--font-size-21xl);
+  font-family: var(--font-oswald);
+}
+.emailfooddynastycom-555-88-container4 {
+  top: 854px;
+  left: 607px;
+  font-size: var(--font-size-13xl);
+  display: inline-block;
+  width: 377px;
+}
+.contact9 {
+  margin: 0;
+  font-size: var(--font-size-17xl);
+  white-space: pre-wrap;
+}
+.contact-sambas-region-container4 {
+  position: absolute;
+  top: 804px;
+  left: 35px;
+  display: inline-block;
+  font-family: var(--font-oswald);
+  width: 279px;
+  height: 117px;
+}
+.about-us1 {
+  position: absolute;
+  top: 326px;
+  left: 7px;
+  font-size: var(--font-size-21xl);
+  letter-spacing: 0.1em;
+  font-family: var(--font-work-sans);
+}
+.at-food-dynasty-we {
+  margin: 0;
+  white-space: pre-wrap;
+}
+.ambiance-and-hospitality-container,
+.welcome-to-food-dynasty-container {
+  position: absolute;
+  top: 397px;
+  left: 269px;
+  font-size: var(--font-size-3xs);
+  letter-spacing: 0.1em;
+  font-family: var(--font-work-sans);
+}
+.ambiance-and-hospitality-container {
+  top: 529px;
+}
+.enjoy-hundreds-of-container4,
+.food-dynasty9,
+.welcome-to-our5 {
+  position: absolute;
+  top: 3px;
+  left: 21px;
+  font-size: var(--font-size-29xl);
+  letter-spacing: -0.02em;
+  line-height: 150%;
+  display: inline-block;
+  color: var(--color-orange);
+  width: 385px;
+  height: 113px;
+}
+.enjoy-hundreds-of-container4,
+.welcome-to-our5 {
+  top: 109px;
+  left: 94px;
+  font-size: var(--font-size-xl);
+  color: var(--color-white);
+  width: 675px;
+  height: 95px;
+}
+.welcome-to-our5 {
+  top: 238px;
+  left: 25px;
+  font-size: var(--font-size-smi);
+  letter-spacing: -0.01em;
+  width: 867px;
+  height: 74px;
+}
+.image-3-icon4 {
+  position: absolute;
+  top: 91px;
+  left: 995px;
+  width: 440px;
+  height: 202px;
+  object-fit: cover;
+}
+.our-story1 {
+  font-family: var(--font-work-sans);
+}
+.our-story {
+  margin: 0;
+}
+.community-matters-container,
+.culinary-craftsmanship-container,
+.join-us-at-container,
+.our-story-container,
+.thank-you-for {
+  position: absolute;
+  top: 470px;
+  left: 273px;
+  font-size: var(--font-size-3xs);
+  letter-spacing: 0.1em;
+  font-family: var(--font-work-sans);
+}
+.community-matters-container,
+.culinary-craftsmanship-container,
+.join-us-at-container,
+.thank-you-for {
+  top: 586px;
+}
+.community-matters-container,
+.join-us-at-container,
+.thank-you-for {
+  top: 627px;
+}
+.join-us-at-container,
+.thank-you-for {
+  top: 684px;
+  font-weight: 600;
+}
+.thank-you-for {
+  top: 727.8px;
+  left: 305px;
+  font-weight: 800;
+  transform: rotate(0.29deg);
+  transform-origin: 0 0;
+}
+.home5 {
+  top: 22px;
+  left: 528px;
+  line-height: 32px;
+  font-weight: 500;
+  color: var(--color-white);
+  white-space: pre-wrap;
+  cursor: pointer;
+}
+.about5,
+.home5,
+.menu6 {
+  position: absolute;
+  letter-spacing: -0.02em;
+}
+.about5 {
+  top: 22px;
+  left: 629px;
+  line-height: 32px;
+  font-weight: 500;
+  color: var(--color-white);
+}
+.menu6 {
+  left: 741px;
+  white-space: pre-wrap;
+  cursor: pointer;
+}
+.billing4,
+.gallery5,
+.menu6 {
+  top: 22px;
+  line-height: 32px;
+  font-weight: 500;
+  color: var(--color-white);
+}
+.billing4 {
+  position: absolute;
+  left: 858px;
+  letter-spacing: -0.02em;
+  cursor: pointer;
+}
+.gallery5 {
+  top: 22px;
+  left: 930px;
+  white-space: pre-wrap;
+  display: inline-block;
+  width: 168px;
+  padding-left: 40px;
+  
+}
+.book-a-table5,
+.contact10,
+.gallery5,
+.login4 {
+  position: absolute;
+  letter-spacing: -0.02em;
+  cursor: pointer;
+}
+.book-a-table5 {
+  top: 55px;
+  left: 1264px;
+  line-height: 150%;
+  color: var(--color-orange);
+}
+.contact10,
+.login4 {
+  color: var(--color-white);
+}
+.contact10 {
+  top: 24px;
+  left: 1115px;
+  line-height: 32px;
+  font-weight: 500;
+}
+.login4 {
+  top: 2px;
+  left: 1344px;
+  line-height: 150%;
+}
+.about4 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
+
+a{
+  color: white;
+  text-decoration: none;
+}

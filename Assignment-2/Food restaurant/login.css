@@ -1,0 +1,587 @@
+.login-child {
+  position: absolute;
+  top: -1px;
+  left: -11px;
+  background-color: var(--color-black);
+  width: 1480px;
+  height: 318px;
+}
+.billing1,
+.contact2 {
+  position: absolute;
+  top: 22px;
+  left: 1019px;
+  letter-spacing: -0.02em;
+  line-height: 32px;
+  font-weight: 500;
+  font-family: var(--font-inter);
+  display: inline-block;
+  width: 115px;
+  height: 32px;
+}
+.billing1 {
+  left: 753px;
+  width: 89px;
+}
+.image-3-icon1 {
+  position: absolute;
+  top: 94px;
+  left: 996px;
+  width: 440px;
+  height: 206px;
+  object-fit: cover;
+}
+.book-a-table2,
+.gallery2 {
+  position: absolute;
+  font-family: var(--font-inter);
+  display: inline-block;
+}
+.book-a-table2 {
+  top: 57px;
+  left: 1242px;
+  letter-spacing: -0.02em;
+  line-height: 150%;
+  color: var(--color-orange);
+  width: 171px;
+  height: 37px;
+}
+.gallery2 {
+  left: 816px;
+  width: 180px;
+  padding-left: 40px;
+}
+.gallery2,
+.home2,
+.menu1 {
+  top: 22px;
+  letter-spacing: -0.02em;
+  line-height: 32px;
+  font-weight: 500;
+  white-space: pre-wrap;
+  height: 32px;
+}
+.menu1 {
+  position: absolute;
+  left: 632px;
+  font-family: var(--font-inter);
+  display: inline-block;
+  width: 88px;
+}
+.home2 {
+  left: 409px;
+  width: 75px;
+}
+.about1,
+.home2,
+.welcome-to-our2 {
+  position: absolute;
+  display: inline-block;
+  font-family: var(--font-inter);
+}
+.about1 {
+  top: 22px;
+  left: 516px;
+  letter-spacing: -0.02em;
+  line-height: 32px;
+  font-weight: 500;
+  width: 83px;
+  height: 32px;
+}
+.welcome-to-our2 {
+  top: 235px;
+  left: 22px;
+  font-size: var(--font-size-smi);
+  letter-spacing: -0.01em;
+  line-height: 150%;
+  width: 867px;
+  height: 75px;
+}
+.enjoy-hundreds-of1 {
+  margin: 0;
+}
+.enjoy-hundreds-of-container1,
+.food-dynasty2 {
+  position: absolute;
+  top: 150px;
+  left: 65px;
+  font-size: var(--font-size-xl);
+  letter-spacing: -0.02em;
+  line-height: 150%;
+  display: inline-block;
+  font-family: var(--font-inter);
+  width: 675px;
+  height: 97px;
+}
+.food-dynasty2 {
+  top: -1px;
+  left: 19px;
+  font-size: 3rem;
+  color: var(--color-orange);
+ 
+  height: 73px;
+}
+.login-item {
+  position: absolute;
+  top: 756px;
+  left: 0;
+  background-color: var(--color-gainsboro);
+  width: 1480px;
+  height: 268px;
+}
+.am-10pm1 {
+  margin: 0;
+  white-space: pre-wrap;
+}
+.monday-sunday-container1 {
+  position: absolute;
+  top: 910px;
+  left: 1237px;
+  font-family: var(--font-oswald);
+  color: var(--color-black);
+}
+.vector-icon2,
+.vector-icon3 {
+  position: absolute;
+  height: 2.93%;
+  width: 2.57%;
+  top: 85.16%;
+  right: 55.35%;
+  bottom: 11.91%;
+  left: 42.08%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vector-icon3 {
+  height: 2.73%;
+  width: 3.34%;
+  right: 50.55%;
+  bottom: 12.11%;
+  left: 46.11%;
+}
+.emailfooddynastycom-555-88-container1,
+.food-dynasty3,
+.hours1 {
+  position: absolute;
+  font-family: var(--font-oswald);
+  color: var(--color-black);
+}
+.emailfooddynastycom-555-88-container1 {
+  top: 910px;
+  left: 580px;
+  font-size: var(--font-size-13xl);
+  display: inline-block;
+  width: 377px;
+}
+.food-dynasty3,
+.hours1 {
+  top: 829px;
+  left: 1274px;
+  font-size: var(--font-size-17xl);
+}
+.food-dynasty3 {
+  top: 797px;
+  left: 586px;
+  font-size: var(--font-size-21xl);
+}
+.contact3 {
+  margin: 0;
+  font-size: var(--font-size-17xl);
+  white-space: pre-wrap;
+}
+.contact-sambas-region-container1 {
+  position: absolute;
+  top: 854px;
+  left: 19px;
+  display: inline-block;
+  font-family: var(--font-oswald);
+  color: var(--color-black);
+  width: 279px;
+  height: 117px;
+}
+.login-inner {
+  position: absolute;
+  top: 316.5px;
+  left: 719.5px;
+  border-right: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 1px;
+  height: 440px;
+}
+.login-child1 {
+  position: absolute;
+  top: 371px;
+  left: 166px;
+  background-color: var(--color-gainsboro);
+  width: 350px;
+  height: 63px;
+}
+.sign-up-to {
+  position: absolute;
+  top: 385px;
+  left: 227px;
+  font-size: var(--font-size-13xl);
+  line-height: 35.2px;
+  font-family: var(--font-abhaya-libre-extrabold);
+  color: var(--color-black);
+}
+.btn-prytemplate1-2-child {
+  position: absolute;
+  height: 61.89%;
+  width: 100.98%;
+  top: -1.27%;
+  right: -0.52%;
+  bottom: 39.38%;
+  left: -0.46%;
+  border: 1.5px solid var(--color-gray-200);
+  box-sizing: border-box;
+}
+.get-started {
+  position: absolute;
+  height: 83.85%;
+  width: 36.8%;
+  top: 15.97%;
+  left: 29.41%;
+  letter-spacing: 0.7px;
+  line-height: 22.53px;
+  font-weight: 900;
+  display: inline-block;
+}
+.btn-prytemplate1-2 {
+  position: absolute;
+  height: 5.38%;
+  width: 10.63%;
+  top: 31.59%;
+  right: 50%;
+  bottom: 63.03%;
+  left: 38%;
+  text-align: right;
+  font-size: var(--font-size-smi-8);
+  color: var(--color-gray-200);
+}
+.login-child2 {
+  position: absolute;
+  top: 485px;
+  left: 166px;
+  background-color: var(--color-gainsboro);
+  width: 283px;
+  height: 41px;
+}
+.user-name {
+  position: absolute;
+  top: 483px;
+  left: 172px;
+  font-size: var(--font-size-3xs);
+  line-height: 28.16px;
+  color: var(--color-black);
+  text-align: center;
+}
+.login-child3 {
+  position: absolute;
+  top: 560px;
+  left: 166px;
+  width: 283px;
+  height: 41px;
+}
+.e-mail-address {
+  position: absolute;
+  top: 563px;
+  left: 166px;
+  font-size: var(--font-size-3xs);
+  line-height: 28.16px;
+  color: var(--color-black);
+  text-align: center;
+}
+.login-child4,
+.password {
+  position: absolute;
+  top: 635px;
+}
+.login-child4 {
+  left: 166px;
+  background-color: var(--color-gainsboro);
+  width: 283px;
+  height: 41px;
+}
+.password {
+  left: 172px;
+  font-size: var(--font-size-3xs);
+  line-height: 28.16px;
+  color: var(--color-black);
+  text-align: center;
+}
+.btn-prytemplate-2-child {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: var(--color-gray-200);
+}
+.create-an-account {
+  position: absolute;
+  top: 28.13%;
+  left: 28.68%;
+  line-height: 28.16px;
+  font-weight: 500;
+}
+.btn-prytemplate-2 {
+  width: 380px;
+  position: relative;
+  height: 64px;
+}
+.btn-prytemplate-2-wrapper {
+  position: absolute;
+  top: 690px;
+  left: 151px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  text-align: center;
+  font-size: var(--font-size-base);
+}
+.btn-prytemplate1-2-item {
+  position: absolute;
+  height: 42.33%;
+  width: 100.75%;
+  top: 0;
+  right: -0.75%;
+  bottom: 57.67%;
+  left: 0;
+  border: 1px solid var(--color-gray-200);
+  box-sizing: border-box;
+}
+.sign-in {
+  position: absolute;
+  height: 95.81%;
+  width: 55.7%;
+  top: 4.19%;
+  left: 15.92%;
+  letter-spacing: 0.7px;
+  line-height: 22.53px;
+  font-weight: 500;
+  display: inline-block;
+}
+.btn-prytemplate1-21 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.btn-prytemplate1-2-wrapper {
+  position: absolute;
+  height: 6.3%;
+  width: 9.2%;
+  top: 32.52%;
+  right: 0.03%;
+  bottom: 61.18%;
+  left: 90%;
+  text-align: right;
+  font-size: var(--font-size-smi-8);
+  color: var(--color-gray-200);
+}
+.account-log-in,
+.please-login-to {
+  text-align: center;
+  display: inline-block;
+}
+.account-log-in {
+  position: absolute;
+  height: 5.08%;
+  width: 19.58%;
+  top: 37.6%;
+  left: 63.06%;
+  font-size: var(--font-size-13xl);
+  letter-spacing: -0.5px;
+  line-height: 44px;
+  color: var(--color-black);
+}
+.please-login-to {
+  height: 5.53%;
+  width: 21.26%;
+  top: 43.55%;
+  left: 63.68%;
+  font-size: var(--font-size-smi-8);
+  letter-spacing: 1px;
+  color: var(--color-dimgray);
+}
+.bg,
+.email,
+.please-login-to {
+  position: absolute;
+}
+.bg {
+  height: 102.11%;
+  width: 100.46%;
+  top: -1.05%;
+  right: -0.23%;
+  bottom: -1.05%;
+  left: -0.23%;
+  border: 1px solid var(--color-darkgray);
+  box-sizing: border-box;
+}
+.email {
+  height: 48%;
+  width: 23.96%;
+  top: 25.05%;
+  left: 3.33%;
+  line-height: 22.53px;
+  display: inline-block;
+}
+.inputemail {
+  position: absolute;
+  height: 4.64%;
+  width: 15.24%;
+  top: 51.37%;
+  right: 19.06%;
+  bottom: 43.99%;
+  left: 65.69%;
+  font-size: var(--font-size-smi-8);
+  color: var(--color-dimgray);
+}
+.login-child5 {
+  position: absolute;
+  height: 6.8%;
+  width: 18.74%;
+  top: 65.33%;
+  right: 16.33%;
+  bottom: 27.87%;
+  left: 64.93%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.forgot-password,
+.log-in {
+  position: absolute;
+  line-height: 22.53px;
+}
+.log-in {
+  top: 692px;
+  left: 1031px;
+  text-align: center;
+}
+.forgot-password {
+  height: 2.29%;
+  
+  top: 61.52%;
+  left: 78.06%;
+  font-size: var(--font-size-smi-8);
+  color: var(--color-dimgray);
+  display: inline-block;
+}
+.bg1 {
+  position: absolute;
+  height: 102.56%;
+  width: 100.46%;
+  top: -1.28%;
+  right: -0.23%;
+  bottom: -1.28%;
+  left: -0.23%;
+  border: 1px solid var(--color-darkgray);
+  box-sizing: border-box;
+}
+.ex-iconeye {
+  position: absolute;
+  height: 33.33%;
+  width: 3.33%;
+  top: 51.28%;
+  right: 0.09%;
+  bottom: 15.38%;
+  left: 96.58%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.password1 {
+  position: absolute;
+  height: 48.46%;
+  width: 43.28%;
+  top: 43.08%;
+  left: 6.38%;
+  line-height: 22.53px;
+  display: inline-block;
+}
+.inputemail-copy {
+  position: absolute;
+  height: 3.81%;
+  width: 15.24%;
+  top: 57.03%;
+  right: 19.06%;
+  bottom: 39.16%;
+  left: 65.69%;
+  font-size: var(--font-size-smi-8);
+  color: var(--color-dimgray);
+}
+.terms {
+  position: absolute;
+  height: 100%;
+  top: 0;
+  left: 30.3px;
+  line-height: 22.53px;
+  display: inline-block;
+  width: 81px;
+}
+.rectangle {
+  position: absolute;
+  height: 104.63%;
+  width: 104.5%;
+  top: -2.31%;
+  right: -2.25%;
+  bottom: -2.31%;
+  left: -2.25%;
+  border: 1px solid #4067ec;
+  box-sizing: border-box;
+}
+.new-shape-icon {
+  position: absolute;
+  height: 34.72%;
+  width: 54.5%;
+  top: 32.87%;
+  right: 22.52%;
+  bottom: 32.41%;
+  left: 22.97%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.checkbox,
+.checkboxlabel {
+  position: absolute;
+  height: 95.58%;
+  width: 19.3%;
+  top: 0.44%;
+  right: 80.7%;
+  bottom: 3.98%;
+  left: 0;
+}
+.checkboxlabel {
+  height: 2.21%;
+  width: 7.99%;
+  top: 62.6%;
+  right: 26.18%;
+  bottom: 35.2%;
+  left: 65.83%;
+  overflow: hidden;
+  font-size: var(--font-size-smi-8);
+  color: var(--color-dimgray);
+}
+.login1 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-white);
+  font-family: var(--font-zen-kaku-gothic-antique);
+}
